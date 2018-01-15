@@ -1,2 +1,2 @@
 # CryptoLion
-A brandnew Exchange for Cryptocurrencies!
+A brandnew Exchange for Cryptocurrencies!!
