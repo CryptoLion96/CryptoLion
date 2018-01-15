@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/CryptoLion.iml" filepath="$PROJECT_DIR$/CryptoLion.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/CryptoLion.iml" filepath="$PROJECT_DIR$/.idea/CryptoLion.iml" />
+>>>>>>> a7ddf85743fa94c1224c2890291243990d9c24cd
     </modules>
   </component>
 </project>
